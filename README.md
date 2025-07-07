@@ -1,1 +1,2 @@
 # GeeksforGeeks_C-Programss
+To learn anything effectively, practicing and solving problems is essential. To help you master C programming, we have compiled over 100 C programming examples across various categories, including basic C programs, Fibonacci series, strings, arrays, base conversions, pattern printing, pointers, and more. These C Examples cover a range of questions, from fundamental concepts to advanced topics, and are frequently asked in C-based programming interviews
